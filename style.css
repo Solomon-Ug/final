@@ -16,4 +16,10 @@ h1{
  .about{
     display: flex;
     background-color: chocolate;
+    background-size: ;
  }
+
+.me{
+   flex-direction: column;
+   background-color: rgb(189, 202, 11);
+}
