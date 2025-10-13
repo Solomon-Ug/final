@@ -8,7 +8,7 @@ h1{
     background-color: aqua;
  }
 
- nav>li>a>{
+ nav>li>a{
     display: inline;
     direction: none;
  }
@@ -18,11 +18,12 @@ h1{
     background-color: chocolate;
     background-size: 200px;
     flex: 1;
+    width: 50%;
     margin-left: 20px; 
  }
 .art{
    flex-direction: column;
-
+   margin-left: 20px;
 }
 .me{
    border-radius: 2px;
