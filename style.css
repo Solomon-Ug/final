@@ -6,6 +6,9 @@ h1{
 }
  nav{
     background-color: aqua;
+    text-decoration: none;
+      display: flex;
+      
  }
 
  nav>li>a{
