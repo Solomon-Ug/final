@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    font-size: arial;
+}
+ nav{
+    background-color: aqua;
+ }
+
+ nav>li>a>{
+    display: inline;
+    direction: none;
+ }
+
+ .about{
+    display: flex;
+    background-color: chocolate;
+ }
