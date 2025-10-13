@@ -14,12 +14,18 @@ h1{
  }
 
  .about{
-    display: flex;
+    display: auto;
     background-color: chocolate;
-    background-size: ;
+    background-size: 200px;
+    flex: 1;
+    margin-left: 20px; 
  }
+.art{
+   flex-direction: column;
 
+}
 .me{
+   border-radius: 2px;
    flex-direction: column;
    background-color: rgb(189, 202, 11);
 }
