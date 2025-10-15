@@ -8,8 +8,14 @@ h1{
     background-color: aqua;
     text-decoration: none;
       display: flex;
-      
  }
+      .button{
+        margin: 5px;
+         padding: 10px;
+         border-radius: 5px;
+         background-color: rgb(28, 85, 104);
+      }
+ 
 
  nav>li>a{
     display: inline;
