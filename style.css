@@ -2,12 +2,21 @@ body{
     background-color: burlywood;
 }
 h1{
-    font-size: arial;
-}
+    font-size: arial;}
+
+ a{
+    text-decoration: none;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
  nav{
     background-color: aqua;
     text-decoration: none;
-      display: flex;
+    border-radius: 5px;
+    display: flex;
  }
       .button{
         margin: 5px;
@@ -15,6 +24,7 @@ h1{
          border-radius: 5px;
          background-color: rgb(28, 85, 104);
       }
+      
  .btn-1{
    padding: 10px;
    border: none;
@@ -22,25 +32,32 @@ h1{
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    text-shadow: rgb(190, 179, 19);
    font-weight: bold;
+   text-decoration: none;
 }
 
- nav>li>a{
+ li>a{
     display: inline;
     direction: none;
+    text-decoration: none;
  }
 
  .about{
-    display: auto;
     background-color: chocolate;
     background-size: 200px;
     border-radius: 5px;
-    flex: 1;
-    width: 50%;
+    flex: 2;
+    width: 20%;
     margin-left: 20px; 
+    flex-direction: column;
+    display: inline-block;
  }
 .art{
    flex-direction: column;
    margin-left: 20px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   color:aqua;
+   font-style: oblique;
 }
 .me{
    border-radius: 2px;
