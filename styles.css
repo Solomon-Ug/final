@@ -172,7 +172,7 @@ body {
     }
 .end-1{
     text-align: center;
-    color: white;
+    color: black;
     margin: 4% 4%;
     font-size: large;
     font-weight: bold;
@@ -222,6 +222,7 @@ body {
     color: rgba(11, 122, 76, 0.801);
     padding: 10px 20px; 
 }
+
 
 
 
