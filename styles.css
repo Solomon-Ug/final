@@ -117,7 +117,7 @@ h4{
     text-align: center;
 }
 body {
-    background-image: url(12.JPG);
+    background-image: url(12.jpg);
     background-repeat: none;
     background-size: cover;
 
@@ -222,3 +222,4 @@ body {
     color: rgba(11, 122, 76, 0.801);
     padding: 10px 20px; 
 }
+
