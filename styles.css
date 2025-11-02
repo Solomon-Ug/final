@@ -80,14 +80,6 @@ nav a.active{
     padding: 4%;
 }
 
-.front-3{
-    width: 260px;
-    height: 200px;
-    margin: 5px 5%;
-    border-radius: 10px;
-    display: inline;
-    padding: 4%;
-}
 h4{
     text-align: center;
     color: rgb(131, 10, 10);
@@ -153,6 +145,16 @@ body {
         margin-left: 15%;
         text-align: center;
     }
+
+    .front-3{
+    width: 50%;
+    height: 50%;
+    margin: 5px 5%;
+    border-radius: 10px;
+    display: inline;
+    padding: 4%;
+}
+
 .front-pic-1{
     display: flex;
     justify-content: center;
