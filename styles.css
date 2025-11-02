@@ -56,6 +56,7 @@ nav a.active{
 }
 .front-pics{
     display: flex;
+    width: 50%;
     justify-content: center;
     gap: 20px;
     margin-top: 20px;
@@ -71,8 +72,8 @@ nav a.active{
     padding: 4%;
 }
 .front-2{
-    width: 35%;
-    height: 35%0px;
+    width: 50%;
+    height: 40%;
     margin: 5px 5%;
     border-radius: 10px;
     display: inline;
