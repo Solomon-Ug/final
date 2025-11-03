@@ -227,3 +227,12 @@ body {
     color: rgba(11, 122, 76, 0.801);
     padding: 10px 20px; 
 }
+
+.carousel-section{
+    display: block;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+
+}
